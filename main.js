@@ -10,7 +10,7 @@ class logIn {
 //const xxElwachin_maspiolaxx = NewLogIn (xxElwachin_maspiolaxx, elwachin@gmail.com, pass1234);
 
 const precioTotal = (a, b) => a+b
-let remera = 1700;
+let remera = 1500;
 let gorra = 600;
 let mousepad = 2100;
 
